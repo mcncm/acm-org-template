@@ -227,4 +227,5 @@ Text of appendix \ldots
 # org-export-before-parsing-hook: org-babel-execute-buffer
 # org-latex-default-packages-alist: nil
 # org-latex-packages-alist: nil
+# org-latex-with-hyperref: nil
 # End:
